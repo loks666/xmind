@@ -1,2 +1,2 @@
 # xmind
-some study notes
+some study notes 
